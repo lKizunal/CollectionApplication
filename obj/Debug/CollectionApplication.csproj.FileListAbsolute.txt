@@ -1,0 +1,10 @@
+C:\Users\Windows 10 Pro\source\repos\CollectionApplication\obj\Debug\CollectionApplication.csprojAssemblyReference.cache
+C:\Users\Windows 10 Pro\source\repos\CollectionApplication\obj\Debug\CollectionApplication.Properties.Resources.resources
+C:\Users\Windows 10 Pro\source\repos\CollectionApplication\obj\Debug\CollectionApplication.csproj.GenerateResource.cache
+C:\Users\Windows 10 Pro\source\repos\CollectionApplication\obj\Debug\CollectionApplication.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10 Pro\source\repos\CollectionApplication\bin\Debug\CollectionApplication.exe.config
+C:\Users\Windows 10 Pro\source\repos\CollectionApplication\bin\Debug\CollectionApplication.exe
+C:\Users\Windows 10 Pro\source\repos\CollectionApplication\bin\Debug\CollectionApplication.pdb
+C:\Users\Windows 10 Pro\source\repos\CollectionApplication\obj\Debug\CollectionApplication.Form2.resources
+C:\Users\Windows 10 Pro\source\repos\CollectionApplication\obj\Debug\CollectionApplication.exe
+C:\Users\Windows 10 Pro\source\repos\CollectionApplication\obj\Debug\CollectionApplication.pdb
